@@ -1,0 +1,44 @@
+{
+  "author": {
+    "name": "Devin Despain",
+    "email": "devin@dspa.in"
+  },
+  "name": "ah-email-utils-plugin",
+  "description": "I provide email utilities",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dangerdespain/ah-email-utils-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/ah-email-utils-plugin.git"
+  },
+  "keywords": [
+    "actionhero",
+    "ah",
+    "formatting",
+    "validation",
+    "email",
+    "emails",
+    "utility",
+    "utilities"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "underscore": "*",
+    "validator" : "git://github.com/chriso/validator.js.git"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "bugs": {
+    "url": "https://github.com/dangerdespain/ah-email-utils-plugin/issues"
+  },
+  "maintainers": [
+    {
+      "name": "dangerdespain",
+      "email": "devin@dspa.in"
+    }
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!",
+}
